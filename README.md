@@ -1,2 +1,3 @@
-# advanced-web-app-h204
-Automated issue comment bot repository
+# Advanced Web App H204
+
+Automated issue comment bot repository.
